@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_farmer",
-    "path": "sprites/spr_farmer/spr_farmer.yy",
+    "name": "spr_jacq_idle_right",
+    "path": "sprites/spr_jacq_idle_right/spr_jacq_idle_right.yy",
   },
   "solid": false,
   "visible": true,
